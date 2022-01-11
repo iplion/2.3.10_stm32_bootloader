@@ -1,0 +1,12 @@
+core_cm3.h:1876:26:ITM_SendChar	16	static,ignoring_inline_asm
+uart.h:15:9:dataCreate	16	static
+uart.h:29:9:dataDecrypt	24	static
+uart.h:56:9:chars2int	24	static
+uart.h:73:9:dataHEXDecrypt32BitBuf	32	static
+main.c:71:5:main	136	static,ignoring_inline_asm
+main.c:316:6:SystemClock_Config	72	static
+main.c:354:13:MX_USART1_UART_Init	8	static
+main.c:387:13:MX_USART2_UART_Init	8	static
+main.c:420:13:MX_GPIO_Init	40	static
+main.c:464:5:_write	32	static
+main.c:477:6:Error_Handler	4	static,ignoring_inline_asm
